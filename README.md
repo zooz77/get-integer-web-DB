@@ -10,4 +10,5 @@ xampp
     
     ثم  نقوم بتعديل  المسميات   بمايناسب  الجدوال التي  كتبناها  
     بعد  ذلك   نقوم  بعمل  get  للصفحه  من D B   
-    php serial
+   localhost/serial/get.php?data=5
+
